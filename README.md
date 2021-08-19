@@ -15,7 +15,7 @@
 
   --- 
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maycondiasz&layout=compact&langs_count=16&theme=tokyonight"/>
-  <h4 align="left">Habilidas:</h4>
+  <h4 align="left">Habilidades:</h4>
   
   <div style="display: inline-block;">
     <img title="corelDraw" width="35px" src="https://github.com/maycondiasz/maycondiasz/blob/master/imagens/corel_draw_x7_0.png?raw=true">
